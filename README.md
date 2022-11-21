@@ -1,6 +1,8 @@
 # research
 This is a folder of my research projects
-1. Series Solutions of Linear Equations
+1. Luo_research_paper file
+
+Title: Series Solutions of Linear Equations
 
 • Summarized the definition of Power Series by providing a concise review on A First Course in Differential 
 Equations, 10th Edition
