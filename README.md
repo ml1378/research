@@ -1,6 +1,6 @@
 # research
 This is a folder of my research projects
-1. Luo_research_paper file
+1. Luo_Research Paper 
 
 Title: Series Solutions of Linear Equations
 
