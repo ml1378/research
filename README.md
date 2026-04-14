@@ -9,3 +9,6 @@ Equations, 10th Edition
 
 • Developed creative questions to illustrate singular points of linear second-order equations in the form of 
 power series with the application of Frobenius’ Theorem
+Bluebike Development  
+
+Analyzed two blue bike stations’ usage patterns by applying a continuous time Markov Chain model – birth and death process with bluebike official trip data. We give suggestions on which station to fill to increase the overall revenue if bluebike had limited bikes to place during afternoon peak hours. 
